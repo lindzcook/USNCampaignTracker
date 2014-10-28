@@ -12,6 +12,13 @@ The data are updated every week. Your graphic will automatically update after we
 
 Note: We count Bernie Sanders as a Democrat in our data.
 
+#Table of Contents
+1. Trips data by state and party
+2. Events data
+3. Maps
+
+The distinction between trips and events is as follows: If Bernie Sanders goes to Iowa for a week and does 8 speaking engagements, we would count that as 8 events and 1 trip.
+
 #Trips Data
 
 ###[Trips by Party](https://public.tableausoftware.com/views/real-presidents/tripsDash?:embed=y&:display_count=no)
@@ -99,7 +106,7 @@ Note: We count Bernie Sanders as a Democrat in our data.
 <script type='text/javascript' src='https://public.tableausoftware.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 656px; height: 599px;'><noscript><a href='#'><img alt='Timeline of Events by Candidate and State ' src='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;re&#47;real-presidents&#47;timelinedash&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='656' height='599' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='real-presidents&#47;timelinedash' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;re&#47;real-presidents&#47;timelinedash&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='no' /></object></div><div style='width:656px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'><a href='http://www.tableausoftware.com/public/about-tableau-products?ref=https://public.tableausoftware.com/views/real-presidents/timelinedash' target='_blank'></a></div></div>
 ```
 
-###[Events by Party](https://public.tableausoftware.com/views/real-presidents/eventsdash?:embed=y&:display_count=no)_
+###[Events by Party](https://public.tableausoftware.com/views/real-presidents/eventsdash?:embed=y&:display_count=no)
 ![Events, Party](images/eventsparty.png "")
 
 ```
