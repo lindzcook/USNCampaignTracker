@@ -13,9 +13,9 @@ The data are updated every week. Your graphic will automatically update after we
 Note: We count Bernie Sanders as a Democrat in our data.
 
 #Table of Contents
-1. Trips data by state and party
-2. Events data
-3. Maps
+1. [Trips data by state and party](https://github.com/lindzcook/USNCampaignTracker#table-of-contents)
+2. [Events data](https://github.com/lindzcook/USNCampaignTracker#events-data)
+3. [Maps](https://github.com/lindzcook/USNCampaignTracker#maps)
 
 The distinction between trips and events is as follows: If Bernie Sanders goes to Iowa for a week and does 8 speaking engagements, we would count that as 8 events and 1 trip.
 
