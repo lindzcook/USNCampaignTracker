@@ -1,6 +1,6 @@
 #U.S. News & World Report Presidential Campaign Tracker
 
-*A project by  Lindsey Cook, Andrew Soergel and Dave Cantanese,*
+*A project by  Lindsey Cook, Andrew Soergel and Dave Catanese*
 
 We've collected data on trips by potential presidential candidates to Iowa, New Hampshire and South Carolina and have been publishing the results on our website since early August. You can see the tracker's methodology [here](http://www.usnews.com/news/blogs/data-mine/2014/08/04/tracking-trips-to-iowa-and-new-hampshire-by-presidential-candidates). We created the tracker because of a glaring lack of campaign data. Too often, data tallying for campaigns stay in the notebooks of individual reporters or need to be gathered from hundreds of news articles covering candidates on the campaign trail.
 
@@ -20,6 +20,7 @@ Note: We count Bernie Sanders as a Democrat in our data.
 The distinction between trips and events is as follows: If Bernie Sanders goes to Iowa for a week and does 8 speaking engagements, we would count that as 8 events and 1 trip.
 
 #Trips Data
+Includes the total number of trips to the three early primary states of Iowa, New Hampshire and South Carolina.
 
 ###[Trips by Party](https://public.tableausoftware.com/views/real-presidents/tripsDash?:embed=y&:display_count=no)
 ![Trips, Party](images/tripsparty.png "")
