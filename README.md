@@ -8,7 +8,7 @@ Since launching the project, we've gotten some great feedback on how helpful the
 
 The data are updated every week. Your graphic will automatically update after we publish the weekly update to our data. To include the data on your own website, simply copy the embed codes and paste into your website's CMS (like Wordpress). Pictures below don't necessarily reflect the most current data, but your embed code will have the most current data. So that you can see each graph in its current state, all titles are linked to a view on Tableau's site.
 
-**Data was last updated on October 27, 2014.**
+**Data for the trips graphs was updated on Oct. 31 through Nov. 3. We're in the process of updating the events graphs and maps.**
 
 Note: We count Bernie Sanders as a Democrat in our data.
 
