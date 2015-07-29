@@ -1,5 +1,7 @@
 #U.S. News & World Report Presidential Campaign Tracker
 
+**Update**: This project has evolved into The Chase, which you can access at [this link](http://www.usnews.com/thechase). We're not updating the graphs below anymore, but you can see all the data on The Chase. 
+
 *A project by  Lindsey Cook, Andrew Soergel and Dave Catanese*
 
 We've collected data on trips by potential presidential candidates to Iowa, New Hampshire and South Carolina and have been publishing the results on our website since early August. You can see the tracker's methodology [here](http://www.usnews.com/news/blogs/data-mine/2014/08/04/tracking-trips-to-iowa-and-new-hampshire-by-presidential-candidates). We created the tracker because of a glaring lack of campaign data. Too often, data tallying for campaigns stay in the notebooks of individual reporters or need to be gathered from hundreds of news articles covering candidates on the campaign trail.
